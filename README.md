@@ -1,5 +1,4 @@
-kkt project example download
-----
+[kkt](https://github.com/kktjs/kkt) project example download
 
 Compressed example.
 
